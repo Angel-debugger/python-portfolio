@@ -21,4 +21,4 @@ This repository contains projects I’ve built while transitioning from Python t
 - AI Text Assistant (coming soon)
 
 ## Contact
-LinkedIn: (add your LinkedIn link)
+LinkedIn: www.linkedin.com/in/angela-ben-ushie-45b81932a
